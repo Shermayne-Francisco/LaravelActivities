@@ -1,12 +1,11 @@
 @extends('layouts.master')
-@section('title', 'My Page')
+@section('title', 'Post')
 @section('content')
 
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-            <h2>Welcome to my page!</h2>
-        </div>
-    </div>
+            <h2>Hi! It's me Shermayne :)</h2>
 </div>
+
 @endsection
